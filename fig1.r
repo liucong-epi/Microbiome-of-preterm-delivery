@@ -1108,12 +1108,3 @@ full_tab <- print(tab,
 
 write.csv(full_tab, "tmp/table1_with_pvalues.csv", na = "")
 
-
-
-
-
-
-
-
-
-
